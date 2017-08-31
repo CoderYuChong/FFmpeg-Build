@@ -5,7 +5,7 @@
 * `FFmpeg-iOS-build-script` 来自于 https://github.com/kewlbear/FFmpeg-iOS-build-script
 * `gas-preprocessor.pl` 来自于 https://github.com/libav/gas-preprocessor
 * `x264` 来自于 http://www.videolan.org/developers/x264.html
-* `Build-iOS` 自己编译好的文件
+* `Build-iOS` 自己编译好的文件(FFmpeg-iOS文件过大，没有上传)
 
 ##### Mac安装 FFmpeg
 
